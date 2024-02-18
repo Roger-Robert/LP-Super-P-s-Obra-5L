@@ -1,0 +1,113 @@
+.d-block1 {
+    width: 1400px;
+    height: 900px;
+    border: 3px solid black;
+    background: rgb(46, 47, 96);
+}
+
+
+.d-block2 {
+    width: 1400px;
+    height: 900px;
+    border: 3px solid black;
+    background: rgb(46, 47, 96);
+}
+
+
+.d-block3 {
+    width: 1500px;
+    height: 900px;
+}
+
+
+.card-img-top1 {
+    border: 3px solid black;
+    background: rgb(108, 109, 203);
+}
+
+
+.card-img-top2 {
+    border: 3px solid black;
+    background: rgb(108, 109, 203);
+}
+
+
+.card-img-top3 {
+    border: 3px solid black;
+    background: rgb(108, 109, 203);
+}
+
+
+
+
+
+
+.card-body {
+    border: 3px solid black;
+    background: rgb(109, 163, 210);
+}
+
+
+.card-body:hover {
+    border: 3px solid black;
+    background: rgb(55, 87, 115);
+    transition: 1.8s;
+}
+
+
+
+.card-text {
+    display: flex;
+    justify-content: center;
+}
+
+.card-mini-text {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.card-quantidade {
+    border: 3px solid black;
+    width: 70px;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+
+.compra {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background: rgb(130, 238, 150);
+    border: 3px solid black;
+    border-radius: 20px;
+}
+
+
+.compra:hover {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background: rgb(60, 131, 72);
+    border: 3px solid black;
+    border-radius: 20px;
+    transition: 0.8s;
+}
+
+
+.img1 {
+    width: 200px;
+}
+
+.img2 {
+    width: 200px;
+}
+
+.luva{
+    width: 500px;
+    height: 500px;
+}
+
